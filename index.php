@@ -11,5 +11,5 @@ $censoredLength = strlen($censoredSentence);
     <?php echo "$testo $sentenceLength" ?>
 </p>
 <p>
-    <?php echo "$censoredSentece $censoredLength" ?>
+    <?php echo "$censoredSentence $censoredLength" ?>
 </p>
